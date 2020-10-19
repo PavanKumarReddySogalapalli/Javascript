@@ -1,0 +1,14 @@
+https://designikx.wordpress.com/2012/06/19/auto-image-slideshow-using-jquery/ auto sliding code in jquery
+
+https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/     auto sliding code in jquery
+
+vpn details
+
+vaibhav.s
+
+
+https://jqueryui.com/datepicker/
+
+https://stephengrider.github.io/JSPlaygrounds/
+
+https://github.com/sudheerj/javascript-interview-questions#what-are-the-possible-ways-to-create-objects-in-javascript
