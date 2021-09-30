@@ -8,7 +8,3 @@ vaibhav.s
 
 
 https://jqueryui.com/datepicker/
-
-https://stephengrider.github.io/JSPlaygrounds/
-
-https://github.com/sudheerj/javascript-interview-questions#what-are-the-possible-ways-to-create-objects-in-javascript
